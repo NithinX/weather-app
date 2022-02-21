@@ -1,3 +1,3 @@
 # weather-app
-## Get the live wather data
+## Get the live weather data
 ### Uses open weather api
